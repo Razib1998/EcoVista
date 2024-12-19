@@ -1,9 +1,7 @@
+import React from "react";
+
 const TemperaturePage = () => {
-  return (
-    <div>
-      <h1>TemperaturePage</h1>
-    </div>
-  );
+  return <div>Temperature Page</div>;
 };
 
 export default TemperaturePage;
